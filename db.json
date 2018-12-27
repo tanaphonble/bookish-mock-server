@@ -1,15 +1,4 @@
 {
-  "books": [
-    {
-      "id": 1,
-      "name": "hello",
-      "description": "world"
-    },
-    {
-      "id": 2,
-      "name": "gg",
-      "description": "wp"
-    }
-  ],
+  "books": [],
   "review": []
 }

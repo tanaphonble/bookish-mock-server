@@ -1,6 +1,5 @@
 {
   "scripts": {
-    "start:mock": "json-server -p 8081 --watch mock-db.json --routes routes.json",
     "start": "json-server -p 8080 --watch db.json --routes routes.json"
   },
   "devDependencies": {
